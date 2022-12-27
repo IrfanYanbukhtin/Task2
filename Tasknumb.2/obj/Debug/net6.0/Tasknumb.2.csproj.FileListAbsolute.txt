@@ -1,0 +1,15 @@
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\bin\Debug\net6.0\Tasknumb.2.exe
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\bin\Debug\net6.0\Tasknumb.2.deps.json
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\bin\Debug\net6.0\Tasknumb.2.runtimeconfig.json
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\bin\Debug\net6.0\Tasknumb.2.dll
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\bin\Debug\net6.0\Tasknumb.2.pdb
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\obj\Debug\net6.0\Tasknumb.2.csproj.AssemblyReference.cache
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\obj\Debug\net6.0\Tasknumb.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\obj\Debug\net6.0\Tasknumb.2.AssemblyInfoInputs.cache
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\obj\Debug\net6.0\Tasknumb.2.AssemblyInfo.cs
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\obj\Debug\net6.0\Tasknumb.2.csproj.CoreCompileInputs.cache
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\obj\Debug\net6.0\Tasknumb.2.dll
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\obj\Debug\net6.0\refint\Tasknumb.2.dll
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\obj\Debug\net6.0\Tasknumb.2.pdb
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\obj\Debug\net6.0\Tasknumb.2.genruntimeconfig.cache
+C:\Users\Asery_valha\source\repos\Tasknumb.2\Tasknumb.2\obj\Debug\net6.0\ref\Tasknumb.2.dll
